@@ -1,0 +1,8 @@
+{
+    "name": "sysutils-service",
+    "version": "1.0.115",
+    "private": false,
+    "environment": "production",
+    "build_id": 857,
+    "allow_public_access": true
+}
